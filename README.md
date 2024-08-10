@@ -17,3 +17,18 @@ Example Non-Secure Messengers:
 
 Usage:
 To use this script, simply input your message and seed phrase to encode it. Share the encoded message via your chosen non-secure messenger. The recipient, who knows the seed phrase, can then decode the message to reveal the original content.
+
+How to download:
+
+1.Clone the repository:
+  ```bash
+git clone https://github.com/Better173/TDE---text-decode-and-encode-script.git
+  ```
+2.Navigate to the Project Directory:
+  ```bash
+cd TDE---text-decode-and-encode-script
+  ```
+3.Run the Script:
+  ```bash
+python3 text-decode-encode.py
+  ```
