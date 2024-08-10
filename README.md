@@ -1,4 +1,4 @@
-# TDE---text-decode-and-encode-script
+# TDE / text-decode-and-encode-script
 Secure Text Encoder/Decoder
 
 This script is a practical tool designed to enhance privacy in communication by allowing users to encode and decode messages using a custom seed phrase. It provides a way to securely transmit information over non-secure messaging platforms, ensuring that only individuals with the correct seed phrase can decrypt the encoded content.
