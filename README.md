@@ -32,4 +32,3 @@ cd TDE---text-decode-and-encode-script
   ```bash
 python3 text-decode-encode.py
   ```
-# MAKE SURE THAT ALL REQUIRED PACKAGES ARE INSTALLED!
